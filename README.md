@@ -1,4 +1,4 @@
-# 자바의 정석
+# 자바의 정석 요약집
 
 
 날짜 | 교재 | 내용
@@ -17,3 +17,13 @@
 |2021-08-03|자바의 정석 요약집|[14. 람다와 스트림 (Lambda & Stream)](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-%EC%9A%94%EC%95%BD%EC%A7%91-14-%EB%9E%8C%EB%8B%A4%EC%99%80-%EC%8A%A4%ED%8A%B8%EB%A6%BC-Lambda-Stream)
 |2021-08-04|자바의 정석 요약집|[15. 입출력(I/O)](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-%EC%9A%94%EC%95%BD%EC%A7%91-15-%EC%9E%85%EC%B6%9C%EB%A0%A5-IO)
 |2021-08-05|자바의 정석 요약집|[16. 네트워킹(networking)](https://jungdami-ing.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-%EC%9A%94%EC%95%BD%EC%A7%91-16-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9networking?category=980034)
+
+
+
+# 자바의 정석
+
+
+
+날짜 | 교재 | 내용
+-----|------|------
+|2021-08-06|자바의 정석 3rd edition|[1. 자바를 시작하기 전에](https://jungdami-ing.tistory.com/m/entry/Chapter-1-%EC%9E%90%EB%B0%94%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90)
