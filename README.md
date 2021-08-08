@@ -29,3 +29,4 @@
 -----|------|------
 |2021-08-06|자바의 정석 3rd edition|[1. 자바를 시작하기 전에](https://jungdami-ing.tistory.com/m/entry/Chapter-1-%EC%9E%90%EB%B0%94%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90)
 |2021-08-07|자바의 정석 3rd edition|[2. 변수 (Variable)](https://jungdami-ing.tistory.com/entry/Chapter-2-%EB%B3%80%EC%88%98-Variable)
+|2021-08-08|자바의 정석 3rd edition|[3. 연산자 (Operator)](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-3-%EC%97%B0%EC%82%B0%EC%9E%90Operator)
