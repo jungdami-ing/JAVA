@@ -31,3 +31,4 @@
 |2021-08-07|자바의 정석 3rd edition|[2. 변수 (Variable)](https://jungdami-ing.tistory.com/entry/Chapter-2-%EB%B3%80%EC%88%98-Variable)
 |2021-08-08|자바의 정석 3rd edition|[3. 연산자 (Operator)](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-3-%EC%97%B0%EC%82%B0%EC%9E%90Operator)
 |2021-08-09|자바의 정석 3rd edition|[4. 조건문과 반복문](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-4-%EC%A1%B0%EA%B1%B4%EB%AC%B8%EA%B3%BC-%EB%B0%98%EB%B3%B5%EB%AC%B8)
+|2021-08-10|자바의 정석 3rd edition|[5. 배열(Array) I](https://jungdami-ing.tistory.com/m/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-5-%EB%B0%B0%EC%97%B4Array-I)
