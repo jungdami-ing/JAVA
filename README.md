@@ -45,3 +45,4 @@
 |2021-08-21|자바의 정석 3rd edition|[7. 객체지향 프로그래밍Ⅱ Ⅶ](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-7-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%E2%85%A1-%E2%85%A6)
 |2021-08-22|자바의 정석 3rd edition|[7. 객체지향 프로그래밍Ⅱ Ⅷ](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-7-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%E2%85%A1-%E2%85%A7)
 |2021-08-23|자바의 정석 3rd edition|[8. 예외처리(Exception Handling)](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-8-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%ACException-Handling)
+|2021-08-24|자바의 정석 3rd edition|[9. java.lang패키지와 유용한 클래스 Ⅰ](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-9-javalang%ED%8C%A8%ED%82%A4%EC%A7%80%EC%99%80-%EC%9C%A0%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4-%E2%85%A0)
