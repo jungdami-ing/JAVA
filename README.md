@@ -58,3 +58,4 @@
 |2021-09-03|자바의 정석 3rd edition|[13. 쓰레드(Thread) Ⅲ - Ⅳ](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-13-%EC%93%B0%EB%A0%88%EB%93%9CThread-%E2%85%A2-%E2%85%A3)
 |2021-09-05|자바의 정석 3rd edition|[13. 쓰레드(Thread) Ⅴ - Ⅵ](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-13-%EC%93%B0%EB%A0%88%EB%93%9CThread-%E2%85%A4-%E2%85%A5)
 |2021-09-06|자바의 정석 3rd edition|[13. 쓰레드(Thread) Ⅶ - Ⅷ](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-13-%EC%93%B0%EB%A0%88%EB%93%9CThread-%E2%85%A6-%E2%85%A7)
+|2021-09-07|자바의 정석 3rd edition|[13. 쓰레드(Thread) Ⅸ](https://jungdami-ing.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-13-%EC%93%B0%EB%A0%88%EB%93%9CThread-%E2%85%A8)
